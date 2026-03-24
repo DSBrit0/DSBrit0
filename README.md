@@ -1,45 +1,29 @@
-<h1 align="center">Hi there, I'm Davidson</h1>
 
-###
+## Hi there, I'm Davidson Brito
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Davidson_Brito?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidsonbrito/)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" height="60" alt="networkx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="60" alt="windows8 logo"  />
-</div>
+I am recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
-###
+## Objective
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/davidsonbrito/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+My journey in computer science has led me to develop a passion for the cybersecurity area, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC).
 
-###
+## Skills
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+![SIEM](https://img.shields.io/badge/SIEM-Wazuh-005571?style=for-the-badge),
+![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-black?style=for-the-badge),
+![Incident Response](https://img.shields.io/badge/Incident_Response-blue?style=for-the-badge),
+![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-darkblue?style=for-the-badge),
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-grey?style=for-the-badge),
+![Vulnerability Management](https://img.shields.io/badge/Vulnerability_Management-red?style=for-the-badge).
 
-###
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black),
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white),
+![Networking](https://img.shields.io/badge/TCP--IP-0078D4?style=for-the-badge&logo=cisco&logoColor=white).
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DSBrit0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+![Cryptography](https://img.shields.io/badge/Cryptography_&_PKI-black?style=for-the-badge),
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-red?style=for-the-badge),
+![Detection Engineering](https://img.shields.io/badge/Detection_Engineering-darkgreen?style=for-the-badge).
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DSBrit0/DSBrit0/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DSBrit0.DSBrit0&"  />
-</div>
-
-###
+## Certifications
+[![CompTIA Security+](https://img.shields.io/badge/Certification%2B-FF0000?style=for-the-badge&logo=Certification&logoColor=white)](https://github.com/DSBrit0/certificados)
