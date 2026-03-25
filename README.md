@@ -2,18 +2,15 @@
 ## Hi there, I'm Davidson Brito
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Davidson_Brito?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidsonbrito/)
 
-I am recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for the cybersecurity area, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC).
+Driving your bussines to Autonomous Security Operations Center.
 
 ## Skills
 
 ![SIEM](https://img.shields.io/badge/SIEM-Wazuh-005571?style=for-the-badge),
 ![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-black?style=for-the-badge),
-![Incident Response](https://img.shields.io/badge/Incident_Response-blue?style=for-the-badge),
-![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-darkblue?style=for-the-badge),
 ![Log Analysis](https://img.shields.io/badge/Log_Analysis-grey?style=for-the-badge),
 ![Vulnerability Management](https://img.shields.io/badge/Vulnerability_Management-red?style=for-the-badge).
 
@@ -26,4 +23,4 @@ My journey in computer science has led me to develop a passion for the cybersecu
 ![Detection Engineering](https://img.shields.io/badge/Detection_Engineering-darkgreen?style=for-the-badge).
 
 ## Certifications
-[![CompTIA Security+](https://img.shields.io/badge/Certification%2B-FF0000?style=for-the-badge&logo=Certification&logoColor=white)](https://github.com/DSBrit0/certificados)
+[![+](https://img.shields.io/badge/Certification%2B-FF0000?style=for-the-badge&logo=Certification&logoColor=white)](https://github.com/DSBrit0/certificados)
